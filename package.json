@@ -1,0 +1,22 @@
+{
+  "name": "fontello-download",
+  "description": "download fontello to jszip instance",
+  "keywords": "fontello download fonts icon jszip",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/fontello-download"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "bl": "^0.9.4",
+    "form-data": "^0.2.0",
+    "hyperquest": "^1.0.1",
+    "jszip": "^2.4.0"
+  },
+  "license": "MIT"
+}
