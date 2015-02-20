@@ -12,7 +12,7 @@ var download = require('fontello-download')
 
 `config` json or string (fontello config.json contents)
 
-`cb` ```function(err, files)```
+`cb` ```function(err, jszipInstance)```
 
 # install
 
