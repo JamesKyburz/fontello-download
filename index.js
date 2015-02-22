@@ -5,9 +5,9 @@ var JSZip = require('jszip');
 
 var fontello = 'http://fontello.com';
 
-module.exports = mount;
+module.exports = fontello2jszip;
 
-function mount(config, cb) {
+function fontello2jszip(config, cb) {
   if (typeof config !== 'string') config = JSON.stringify(config);
   var fd = new FormData();
   fd.append('config', config, {filename: 'config', content_type: 'application/json'});
