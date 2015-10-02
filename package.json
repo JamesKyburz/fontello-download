@@ -13,10 +13,10 @@
   "main": "index.js",
   "version": "1.0.0",
   "dependencies": {
-    "bl": "^0.9.4",
-    "form-data": "^0.2.0",
-    "hyperquest": "^1.0.1",
-    "jszip": "^2.4.0"
+    "bl": "0.9.4",
+    "form-data": "0.2.0",
+    "hyperquest": "1.2.0",
+    "jszip": "2.5.0"
   },
   "license": "MIT"
 }
