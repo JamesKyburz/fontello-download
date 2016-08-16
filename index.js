@@ -24,6 +24,9 @@ function fontello2jszip(config, cb) {
 
   function unzip(err, contents) {
     if (err) return cb(err);
-    cb(err, new JSZip(contents));
+    JSZip.loadAsync(contents)
+      .then(cb.bind(null, null))
+      .catch(cb)
+    ;
   }
 }
