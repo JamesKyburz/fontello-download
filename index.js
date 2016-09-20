@@ -1,6 +1,7 @@
 var FormData = require('form-data');
 var bl = require('bl');
 var JSZip = require('jszip');
+var request = require('hyperquest');
 
 var fontello = 'http://fontello.com';
 
