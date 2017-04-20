@@ -11,7 +11,7 @@
     "email": "james.kyburz@gmail.com"
   },
   "main": "index.js",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "dependencies": {
     "bl": "1.2.0",
     "form-data": "2.1.4",
