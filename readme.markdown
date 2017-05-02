@@ -1,8 +1,8 @@
 # fontello-download
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/fontello-download.svg)](https://greenkeeper.io/)
-
 fontello-download
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/fontello-download.svg)](https://greenkeeper.io/)
 
 # methods
 
